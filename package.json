@@ -4,7 +4,7 @@
   "repository": "https://github.com/getfider/fider",
   "private": true,
   "dependencies": {
-    "dompurify": "2.2.7",
+    "dompurify": "3.4.17",
     "marked": "2.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
